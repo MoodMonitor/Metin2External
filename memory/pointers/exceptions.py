@@ -1,0 +1,4 @@
+
+
+class BadShopStatus(Exception):
+    pass
